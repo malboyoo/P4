@@ -117,17 +117,11 @@ figcaption cite {
   color: #000000;
 }
 
-button:focus,
-.btn:focus,
-a:focus {
-  border: 2px solid black;
-}
 /* fin de modification audit */
 
 a,
 button {
   transition: all 0.3s ease-in-out;
-  outline: none !important;
 }
 
 a:hover {
